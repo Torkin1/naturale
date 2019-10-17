@@ -4,3 +4,5 @@ It's a wonderful evening to learn SVN
 I hate learning SVN
 
 clearly we have different opinions
+
+I see you made a branch. Nice. Share its changes when you are done.
